@@ -13,6 +13,7 @@
 - Choose a formula for the model, run a test.
 
 **Data description**
+
 *test_1*
 - id - id of the client in the experiment
 - group - in what resolution images were shown (A - rectangular 16:9, B - square, C - rectangular 12:4)
